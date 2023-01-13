@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2023/01/07/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>test</title>
+    <url>/2023/01/08/test/</url>
+    <content><![CDATA[<p>it is just for a test</p>
+<p>CHINESE TEST:</p>
+<p>你好，我是华夏通史的作者</p>
+]]></content>
+      <tags>
+        <tag>for a test</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>前言</title>
+    <url>/2023/01/12/%E5%89%8D%E8%A8%80/</url>
+    <content><![CDATA[<p>​		如果说我写这一部书开始就是为了整活，也是有道理的，但后来随着这个故事越来越深入，它再也不是单独为了整活而存在，它更多承载的是我的一些看法。</p>
+<p>​		国际诸方势力并不是像他们口中说的那么单纯，联合国品在洪都拉斯犯下的罪行，不只是《百年孤独》中的黄皮火车，毒枭、暴恐、赤贫让南美人心惶惶。宏伟的圣母像的正面光明纯正，背面却充斥着走私、盗墓、毒品。战乱、宗教、剥削、暴君已经成为第三世界各国挥之不去的梦魇。本作品可能不会像《战争之王》或其他电影一样展开去讲具体的一类事物，但你可以看到的是黑暗复杂的国际。美国用人权欺压人权、联合国用正义打击正义，欧洲用发展阻碍发展，他们光鲜亮丽、鲜衣怒马，而亚非拉贫苦落后。蒙博托凭什么？杜瓦利埃凭什么？马克思（菲律宾总统）凭什么？他们花红酒绿不正是因为美利坚、法兰西、英吉利、苏维埃、西班牙、葡萄牙、德意志、比利时的罪行吗？他们的身后是大国，是“正义”、“人权”、“自由”、”民主“。</p>
+<p>​		但这一切都会画上一个美好的句号吗？</p>
+<p>​		这不是童话！！！</p>
+<p>​		卖火柴的女孩之所以能卖是因为连打火机都买不起！</p>
+<p>​		不过，华夏的故事更像是一个乌托邦，非洲联合、明君统治、战胜困难、饮马易北、建立民族。虽然封建主义，虽然绝对君主、虽然沙文，但一切也在欣欣向荣，不是吗？</p>
+<p>​		放眼现实世界，南非崛起、阿根廷趋于稳定、海地发展、刚果振兴。虽然有人仍在水深火热之中，我们也感受到了有一束光依然存在——善良。属于暴君的时代已经日薄西山，家族政治纷纷垮台。即使乍得、叙利亚兵灾连连，即使伪人权、战乱，即使强权、封闭，第三世界国家正在走向联合，或许几百年后，会有人说——</p>
+<p>​		达瓦里希，让我们一起创造一个新世界吧！</p>
+<p>​		谨以此书，献给我的童年，那是一段小有缺憾的时光</p>
+<p>​		也献给我的朋友、原型提供者、李昊阳</p>
+<p>​		</p>
+<p>​		2023年1月2日23时</p>
+]]></content>
+      <tags>
+        <tag>washa</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UPDATE</title>
+    <url>/2023/01/13/UPDATE/</url>
+    <content><![CDATA[<p>更新信息：</p>
+<h1 id="2023-x2F-1-x2F-13"><a href="#2023-x2F-1-x2F-13" class="headerlink" title="2023&#x2F;1&#x2F;13"></a>2023&#x2F;1&#x2F;13</h1><p>1.更换新主题</p>
+<p>2.新增排序插件</p>
+<p>3.新增本update栏目</p>
+<p>4.加入评论系统</p>
+<p>5.加入搜索系统</p>
+<p>6.鸣谢LHT设计华夏国徽</p>
+<h1 id="2023-x2F-1-x2F-12"><a href="#2023-x2F-1-x2F-12" class="headerlink" title="2023&#x2F;1&#x2F;12"></a>2023&#x2F;1&#x2F;12</h1><p>1.博客成立</p>
+<p>2.发布前言</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>鸣谢</title>
+    <url>/2023/01/13/%E9%B8%A3%E8%B0%A2/</url>
+    <content><![CDATA[<p>华夏国徽设计者、制作者：LHT</p>
+]]></content>
+      <tags>
+        <tag>washa</tag>
+      </tags>
+  </entry>
+</search>
